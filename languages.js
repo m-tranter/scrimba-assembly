@@ -2,12 +2,12 @@ export const languages = [
   {
     name: "HTML",
     backgroundColor: "#E2680F",
-    color: "#F9F4DA",
+    color: "#000000",
   },
   {
     name: "CSS",
     backgroundColor: "#328AF1",
-    color: "#F9F4DA",
+    color: "#000",
   },
   {
     name: "JavaScript",
@@ -22,12 +22,12 @@ export const languages = [
   {
     name: "TypeScript",
     backgroundColor: "#298EC6",
-    color: "#F9F4DA",
+    color: "#000",
   },
   {
     name: "Node.js",
     backgroundColor: "#599137",
-    color: "#F9F4DA",
+    color: "#000",
   },
   {
     name: "Python",
